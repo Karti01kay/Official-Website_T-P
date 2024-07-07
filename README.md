@@ -31,4 +31,4 @@ Training & Placement Cell, MMMUT, Gorakhpur
 <br>
 Email: tnp@mmmut.ac.in
 <br>
-Website: https://tnpmmmut.tech/
+Website: https://official-website-tnp.vercel.app/
