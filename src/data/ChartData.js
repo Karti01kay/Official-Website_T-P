@@ -15,11 +15,11 @@ export const ChartData = [
 export const ChartDataCourse = [
   {
     id: 1,
-    Course: "B.Tech. (1006)",
-    TotalIntake: 1006,
+    Course: "B.Tech. (1155)",
+    TotalIntake: 1155,
   },
-  { id: 2, Course: "BBA (60)", TotalIntake: 60 },
-  { id: 3, Course: "B.Pharma. (75)", TotalIntake: 75 },
+  { id: 2, Course: "BBA (94)", TotalIntake: 94 },
+  { id: 3, Course: "B.Pharma. (94)", TotalIntake: 94 },
   { id: 4, Course: "MCA (75)", TotalIntake: 75 },
   { id: 5, Course: "MBA (75)", TotalIntake: 75 },
   { id: 6, Course: "M.Sc. (90)", TotalIntake: 90 },

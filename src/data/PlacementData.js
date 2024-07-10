@@ -48,4 +48,11 @@ export const PlacementData = [
     AveragePackage: "7",
     HighestPackage: "52",
   },
+  {
+    id: 8,
+    Year: "2023 - 24",
+    Offers: "800",
+    AveragePackage: "6",
+    HighestPackage: "42",
+  }
 ];

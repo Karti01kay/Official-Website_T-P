@@ -24,7 +24,7 @@ const GraduatingStudent = () => {
     labels: ChartData.map((data) => data.Branch),
     datasets: [
       {
-        label: "B.Tech. Graduating Students (2023)",
+        label: "B.Tech. Graduating Students (2024)",
         data: ChartData.map((data) => data.Strength),
         backgroundColor: colorArray,
         borderColor,
@@ -36,7 +36,7 @@ const GraduatingStudent = () => {
     labels: ChartDataPG.map((data) => data.Course),
     datasets: [
       {
-        label: "PG Graduating Students (2023)",
+        label: "PG Graduating Students (2024)",
         data: ChartDataPG.map((data) => data.TotalIntake),
         backgroundColor: colorArray,
         borderColor,
