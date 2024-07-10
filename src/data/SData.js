@@ -15,7 +15,7 @@ const SData = [
   {
     id: 2,
     image:
-      "https://res.cloudinary.com/dkddubkcn/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1686848231/IMG-20230419-WA0067_-_Atul_Mishra_zactow.jpg",
+      "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720605288/WhatsApp_Image_2024-07-10_at_15.16.43_bky7oo.jpg",
     name: "Atul Mishra",
     post: "Joint Secretary",
     branch: "ECE",
@@ -67,7 +67,7 @@ const SData = [
   {
     id: 6,
     image:
-    "https://res.cloudinary.com/dkddubkcn/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1686918946/priyansh_owmcux.jpg",
+    "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720605280/PXL_20231004_123639074_urrelj.jpg",
     name: "Priyansh Agarwal",
     post: "Joint Secretary",
     branch: "EE",
@@ -93,7 +93,7 @@ const SData = [
   {
     id: 8,
     image:
-    "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720591140/WhatsApp_Image_2024-07-10_at_09.55.10_n9t0sj.jpg",
+    "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720605670/WhatsApp_Image_2024-07-10_at_09.55.10_1_vh8nci.jpg",
     name: "Parlakshit Tyagi",
     post: "T&P Final Year",
     branch: "CSE",
@@ -341,7 +341,7 @@ const SData = [
 
   {
     id: 28,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720591516/WhatsApp_Image_2024-07-10_at_10.08.55_kntdq9.jpg",
+    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720605268/WhatsApp_Image_2024-07-10_at_10.08.55_mufkgh.jpg",
     name: "Abhiraj Gupta",
     post: "T&P Third Year",
     branch: "EE",
@@ -453,7 +453,7 @@ const SData = [
     name: "Aditi Upadhyay",
     post: "T&P Third Year",
     branch: "BBA",
-    year: "Final",
+    year: "Third",
     phone: "7905174604",
     fb: "",
     in: "https://www.linkedin.com/in/aditi-upadhyay-016312270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
