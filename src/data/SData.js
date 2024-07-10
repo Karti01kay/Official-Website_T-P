@@ -2,7 +2,7 @@ const SData = [
   {
     id: 1,
     image:
-    "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720585191/Placement_Brochure_24-25_vlfis0.jpg",
+    "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720616690/WhatsApp_Image_2024-07-10_at_18.17.19_zi15hy.jpg",
     name: "Skand Tripathi",
     post: "Secretary",
     branch: "ECE",
@@ -80,7 +80,7 @@ const SData = [
   {
     id: 7,
     image:
-    "https://res.cloudinary.com/dkddubkcn/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1686848230/IMG_20230420_014801_263_-_Satvik_Tripathi_e1kyi8.jpg",
+    "https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720616702/WhatsApp_Image_2024-07-10_at_18.31.20_1_r35vsi.jpg",
     name: "Satvik Tripathi",
     post: "Joint Secretary",
     branch: "ECE",
@@ -246,7 +246,7 @@ const SData = [
 
   {
     id: 20,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720584449/WhatsApp_Image_2024-05-13_at_17.01.55_073a5864_vkunpw.jpg",
+    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720617324/WhatsApp_Image_2024-07-10_at_16.17.39_da6ffv.jpg",
     name: "Nidhi Paswan",
     post: "T&P Third Year",
     branch: "CSE",
@@ -305,14 +305,14 @@ const SData = [
   },
   {
     id: 25,
-    image:"",
+    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720616973/WhatsApp_Image_2024-07-10_at_16.29.14_gq7idl.jpg",
     name: "Prashant Kushwaha",
     post: "T&P Third Year",
     branch: "ECE",
     year: "Third",
     phone: "8303195277",
     fb: "",
-    in: "",
+    in: "https://www.linkedin.com/in/prashantkush8854",
   },
   
   {
@@ -320,7 +320,7 @@ const SData = [
     image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720584605/TNP_ID_Card_photo_-_anonymous_w2hv2l.jpg",
     name: "Rajat Singh ",
     post: "T&P Third Year",
-    branch: "EE",
+    branch: "ECE",
     year: "Third",
     phone: "8296404175",
     fb: "",
