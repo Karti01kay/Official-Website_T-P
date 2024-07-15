@@ -103,17 +103,17 @@ const Navbar = () => {
                 <li className="navwidth2">
                   <a
                     style={{ textDecoration: "none", color: "#000" }}
-                    href="https://res.cloudinary.com/dirfs5ho3/image/upload/v1687110551/Placement_Report_2022-23_h1yeoj.pdf"
+                    href="https://drive.google.com/file/d/1wPP_Qz4OkjYIaw5ygaInBMcMOjNn79xN/view?usp=sharing"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Placements 2022-23
+                    Placements 2023-24
                   </a>
                 </li>
                 <li className="navwidth2">
                   <a
                     style={{ textDecoration: "none", color: "#000" }}
-                    href="https://res.cloudinary.com/dirfs5ho3/image/upload/v1687067609/Placement_Brochure_2023-24_compressed_chflps.pdf"
+                    href="https://drive.google.com/file/d/18K8f69l5NUB1yiHa14Fc7OfWv0zsVdQ6/view"
                     target="_blank"
                     rel="noreferrer"
                   >

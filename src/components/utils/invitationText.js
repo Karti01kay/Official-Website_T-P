@@ -131,7 +131,7 @@ const InvitationText = () => {
                   {" "}
                   &nbsp;{" "}
                   <a
-                    href="https://res.cloudinary.com/dirfs5ho3/image/upload/v1687067609/Placement_Brochure_2023-24_compressed_chflps.pdf"
+                    href="https://drive.google.com/file/d/19OPzZCYe0C9IcxZ2XG6H3A7uyrKhjdfS/view"
                     target="_"
                   >
                     <strong>Placement Brochure</strong>

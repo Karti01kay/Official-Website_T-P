@@ -48,296 +48,303 @@ export const userColumns = [
 export const userRows = [
 {
   id:"1",
-  name:"Webinar on the topic Japan Tech Exchange Program through Code Tots Japan",
-  date:"6 July 2022, 11.00 AM to 12.00 PM",
-  speaker:"Code Tots Japan",
-  course:"B.Tech./M.Tech./MCA (Batch 2023,2024)"
+  name:"Workshop on Getting Started with Azure Cloud",
+  date:"28th July 2023 02:00 PM onwards",
+  speaker:"RPS Consulting",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"2",
-  name:"Webinar on the topic Internship in Emerging Technologies Mapped with international Certification",
-  date:"9 July 2022, 6.00 PM",
-  speaker:"Quantum Learning",
-  course:"All Branches (B.Tech)"
+  name:"Webinar on AI Uncovered - A journey into the world of AI and its future",
+  date:"4th August 2023 05:00 PM Onwards",
+  speaker:"TCS Launchpad Mr. Shreedhar V Developer at TCS Innovation Lab",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"3",
-  name:"Webinar on the topic Carrer Acceleration Webinar",
-  date:"10 July 2022, 12.00 PM to 02.00 PM",
-  speaker:"IIT and IIM Industry Experts",
-  course:"All Branches (B.Tech)"
+  name:"Workshop on Azure Administrator",
+  date:"8th Aug 2023 02:00 PM onwards",
+  speaker:"RPS Consulting",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"4",
-  name:"Summer training on Data Structure and Analysis",
-  date:"July 10 to July 16 2022, 10.00AM to 01.00 PM",
-  speaker:"GTT Barclays Mr. Aman Ghosh",
-  course:"B.Tech (IT and Non IT)"
+  name:"Seminar on 5G Technology and Digital Revolution",
+  date:"22nd Aug 2023 03:00 PM Onwards",
+  speaker:"Mr. PranayPathak State Head, Reliance Jio",
+  course:"B.Tech ECE (2024/25)"
 },
 
 {
   id:"5",
-  name:"Webinar on the topic TOEFL and GRE Collaboration with ETS India",
-  date:"July 18 2022, 11.00AM to 12.00 PM",
-  speaker:"Mr. Joseph Augustine",
-  course:"For all Students of B.Tech and BBA"
+  name:"Webinar on Industrial Management in Microelectronics",
+  date:"24th Aug 2023 03:00 PM Onwards",
+  speaker:"Prof. Dr. Gerald Gerlach Chair - Institute of Solid-State Electronics, TUD Germany",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"6",
-  name:"Aptitude Training collaboration with GGT Barclays",
-  date:"1 Aug 2022 to 6 Aug 2022, 10.00AM to 01.00PM",
-  speaker:"Mr. Akshay Gupta GTT Barclays",
-  course:"B.Tech, M.Tech & MCA"
+  name:"Seminar on Navigating Tomorrow's Job Market: Strategies for College Placement Success",
+  date:"12th Sept 2023 10:30 AM Onwards",
+  speaker:"Sh. B.B. Singh Ex Principle MMMUT, Prof at KIPM",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"7",
-  name:"Building Careers in Tech",
-  date:"5 Aug 2022, 04.00 PM to 05.00PM",
-  speaker:"Team Amazon Wow",
-  course:"B.Tech, M.Tech & MCA"
+  name:"Seminar on Data Science using Python",
+  date:"16 Sept 2023 10:00 AM Onwards",
+  speaker:"Siddhartha Mishra Founder, Deep Dive Consulting Pvt. Ltd",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
   
 {
   id:"8",
-  name:"Workshop on Cyber Security",
-  date:"25th Aug and 26th Aug, 6PM to 8PM",
-  speaker:"NIIT Foundation and CISCO",
-  course:"B.Tech, M.Tech & MCA"
+  name:"Expert Talk on Scope and Avenue in Telecom Industry",
+  date:"19 Sept 2023 02:30 PM Onwards",
+  speaker:"Sh. Rajesh Rai CMD, ITI",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"9",
-  name:"Personality Grooming and Interview Techniques",
-  date:"7th September, 12 PM Onwards",
-  speaker:"Mr. Vibhav Srivastava",
-  course:"BBA & M.Sc. 2023 batch"
+  name:"Webinar on preparation of Civil Services",
+  date:"1st Oct 2023 11:00 AM Onwards",
+  speaker:"Mr. Pulkit Singh, IAS 2020 & Ms. JyotiYadav, Academic Coach",
+  course:"BBA/MBA/B.Tech/M.Tech/MCA/MSc(2024/2025/2026)"
 },
 
 {
   id:"10",
-  name:"Cracking Internships and Placements",
-  date:"10th September, 10 AM Onwards",
-  speaker:"Mr. Arsh Goyal",
-  course:"B.Tech, M.Tech & MCA"
+  name:"Expert Talk on Career opportunities in IT sector and Preparation strategy",
+  date:"14th Oct 2023 03:00 PM onwards",
+  speaker:"Mr. PawanPundir Senior Engineering Manager at Flipkart",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"11",
-  name:"Personality Development and Corporate Readiness",
-  date:"19th to 28th Sept 2022, 10 AM to 1 PM",
-  speaker:"Mr. Vibhav Srivastava",
-  course:"Final Year Branches of all Departments"
+  name:"Expert Talk on Crafting Your Career: Hiring trends in current scenario",
+  date:"14th Oct 2023 12:00 PM onwards",
+  speaker:"Mr. ShresthSahai SDE, Tact.AI",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"12",
-  name:"Webinar on Roadmap to Start Career in Software Testing",
-  date:"2nd October, 11 AM to 12:30 PM",
-  speaker:"Mr. Gandharv Madan",
-  course:"B.Tech/M.Tech/MCA 2023/2024/2025"
+  name:"TCS Interaction (CodeVita Season XI)",
+  date:"26th October 2023, Thursday | 12:00 PM to 1:00 PM",
+  speaker:"TCS",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"13",
-  name:"Tech talk on Wipro Cyber security and other technologies",
-  date:"18th October, 5 PM to 6 PM",
-  speaker:"Mr. Murali Parathasarathy",
-  course:"B.Tech/M.Tech/MCA 2023/2024"
+  name:"Aptitude test on Engineering Concepts",
+  date:"30th Oct 10:30 AM – 01:00 PM",
+  speaker:"Jaipuriya Institute of Management, Lko",
+  course:"B.Tech. (Batch 2024,2025,2026)"
 },
 
 {
   id:"14",
-  name:"Placement Opportunities and Career Growth",
-  date:"1 November 2022, 10 AM Onwards",
-  speaker:"Ms. Anshika Gupta",
-  course:"B.Tech/M.Tech/MCA 2023/2024/2025"
+  name:"Expert Talk on The Future is faster than you think. Modern trends in IT",
+  date:"2nd Nov 04:00 PM onwards",
+  speaker:"Sushil Sharma R&D Engineering Manager, Hewlett Packard Inc",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"15",
-  name:"Expert Talk on Effective Communication",
-  date:"9 November 2022, 12 pm Onwards",
-  speaker:"Mr. Rajesh Srivastava Director Wipro",
-  course:"BBA/MBA 2023/2024"
+  name:"Preparation Strategy for Civil Services",
+  date:"6th Nov 11:00 AM Onwards",
+  speaker:"Shivam Gupta Bihar PCS",
+  course:"BBA/MBA"
 },
 
 {
   id:"16",
-  name:"Industry Readiness Workshop",
-  date:"18 November, 4 PM to 6 PM",
-  speaker:"Mr. Devesh Dubey Principal Consultant at Tech Mahindra",
-  course:"B.Tech/M.Tech/MSc/BBA 2023/2024"
+  name:"Interaction Session about CodeVita Season XI",
+  date:"7th Nov 11:00 AM Onwards",
+  speaker:"TCS Team",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"17",
-  name:"Seminar on IT career in a global and dynamic world",
-  date:"24 November, 03:15 PM to 04:15 PM",
-  speaker:"Mr. Himanshu Kumar General manager and regional HR head",
-  course:"B.Tech/M.Tech/MCA 2023/2024"
+  name:"Exposure to Advance Studies in MS/ MBA Programs",
+  date:"9th Nov 11:00 AM Onwards",
+  speaker:"ArvindVerma, Reshma Singh",
+  course:"Btech/BBA/BPharma"
 },
 
 {
   id:"18",
-  name:"Webinar on preparation for UPSE",
-  date:"26 November, 4 PM onwards",
-  speaker:"HARIS BIN ZAMAN (IPS 2018), ASP GIRIDIH )",
-  course:"B.Tech/M.Tech/MCA 2023/2024"
+  name:"Expert talk on Job Opportunities in USA",
+  date:"4th Dec 12:00 PM onwards",
+  speaker:"ErAtulGarg Campbella Soup Company",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"19",
-  name:"Webinar on Resume Building",
-  date:"27 November, 03:00 PM onwards",
-  speaker:"Ankit Kumar Operations Manager, Masai",
-  course:"B.Tech/M.Tech/MCA/MBA 2023/2024/2025/2026"
+  name:"Expert talk on Career Opportunities in Cyber Security",
+  date:"4th Dec 01:00 PM onwards",
+  speaker:"Dr. Jitendra Mohan Bhardwaj Tata Advanced Systems Ltd",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"20",
-  name:"Expert Talk on Cyber Security",
-  date:"30 November, 03:00 PM onwards",
-  speaker:"Dr. Jitendra Mohan Bhardwaj Global Business Head, Coforge",
-  course:"B.Tech/M.Tech/MCA 2023/2024"
+  name:"Expert talk on Placement Strategies and Competitive Programming",
+  date:"4th Dec 03:00 PM onwards",
+  speaker:"Ms. AradhyaTripathi Mr. UtkarshGoel SWE at Google",
+  course:"B.Tech./M.Tech./MCA (Batch 2024,2025,2026)"
 },
 
 {
   id:"21",
-  name:"Webinar on Road to the Future Digital Workplace",
-  date:"1 December, 03:00 PM onwards",
-  speaker:"L&T Edutech",
-  course:"B.Tech/M.Tech/MCA/MBA 2023/2024/2025/2026"
+  name:"Workshop on Communication Skills",
+  date:"15th Dec 02:00 PM onwards",
+  speaker:"Dr. Chandraketu Singh Faculty, Jaipuria Institute of Management, Lucknow",
+  course:"BBA/BPharma/MBA(2024/2025/2026)"
 },
 
 {
   id:"22",
-  name:"Webinar on The Emerging Trends in Switchgear, Control &",
-  date:"8 December, 03:00 PM onwards",
-  speaker:"L&T Edutech Srinivasan S Mohan Munirathinam",
-  course:"B.Tech/M.Tech/MCA/ 2023/2024/2025/2026"
+  name:"Placement Strategies and Resume making",
+  date:"12th Dec 06:00 PM onwards",
+  speaker:"Mr. Lokesh Sharma SDE at Deloitte",
+  course:"B.Tech/M.Tech/MCA/MBA/BBA(2024/2025/2026)"
 },
 
 {
   id:"23",
-  name:"Introduction Session of Japan Career Program",
-  date:"19 December, 03:00 PM onwards",
-  speaker:"Codetots Japan Ms. Shreya Jaiswal",
-  course:"B.Tech/M.tech/MCA/ 2024/2025/2026"
+  name:"Workshop on AI for Students: Build Your Own Generative AI Model",
+  date:"27th Jan 11:00 AM onwards",
+  speaker:"TrivikramaKothinti CEO of ProYuga",
+  course:"B.Tech/M.Tech/MCA(2024/2025/2026/2027)"
 },
 
 {
   id:"24",
-  name:"Use of IOT and Automation in Industries.",
-  date:"21 December, 03:00 PM onwards",
-  speaker:"Mr. Ramesh Rajagopalakrishnan Chief Information Officer, ABG",
-  course:"B.Tech 2023/2024"
+  name:"Job Opportunities in the Area of Computing Machinery",
+  date:"10th Feb 12:00 PM onwards",
+  speaker:"Dr. AlokSrivastava Ambassador and Foreign Executive Secretary",
+  course:"B.Tech/M.Tech/MCA(2024/2025/2026/2027)"
 },
 
 {
   id:"25",
-  name:"Bhabha Atomic Research Centre Outreach Program",
-  date:"27 January 2023",
-  speaker:"BARC Training School",
-  course:"B.Tech/M.Sc 2023"
+  name:"Workshop on VLSI Design Methodologies",
+  date:"11th Feb 06:30 PM onwards",
+  speaker:"WayspireEdTechPvt Ltd",
+  course:"B.Tech/M.Tech/MCA(2024/2025/2026/2027)"
 },
 
 {
   id:"26",
-  name:"Webinar on Study Abroad Scope and Opportunity",
-  date:"07 February 2023, 03:00 PM Onwards",
-  speaker:"Aim Ladder Mr. Ankit Mahipal, Ms. Sachi Pandey",
-  course:"B.Tech/M.Tech/MCA/ 2024/2025/2026"
+  name:"Webinar on Automotive Connectivity in the era of SDVs & V2X Communications",
+  date:"23rd Feb 03:00 PM onwards",
+  speaker:"Mr. Vishesh Kumar Technical Architect | V2X SDV",
+  course:"B.Tech/M.Tech/MCA(2024/2025/2026/2027)"
 },
 
 {
   id:"27",
-  name:"Webinar on the topic TOEFL and GRE Collaboration with ETS India",
-  date:"Feb 12 2023, 11.00AM to 12.00 PM",
-  speaker:"Mr. Joseph Augustine",
-  course:"For all Students of B.Tech and BBA"
+  name:"Expert Talk on preparation strategies of civil services",
+  date:"24th Feb 10:00 AM onwards",
+  speaker:"Mr. GauravTripathi IPS | 2022",
+  course:"B.Tech/M.Tech/MCA(2027)"
 },
 
 {
   id:"28",
-  name:"Webinar on How to Crack High Paying Job in 2023",
-  date:"March 11, Saturday 06:00 PM onwards",
-  speaker:"Mr. Abhinav Jain, Ex- software Engineer  at Microsoft",
-  course:"B.Tech/M.Tech/MCA/ 2024/2025/2026"
+  name:"Worshop on Pressure Vessel Design Using ASME Codes",
+  date:"25th Feb 09:30 AM onwards",
+  speaker:"Team Scootoid",
+  course:"Mechanical Engineering(2024/2025/2026/2027)"
 },
 
 {
   id:"29",
-  name:"Free Artificial Intelligence Course",
-  date:"March 15, 10:00 AM onwards",
-  speaker:"SkillUp Online and NASSCOM Foundation",
-  course:"Students of all branches 2024/2025/2026"
+  name:"Webinar on Placement Strategies and Industry Experience",
+  date:"9th March 11:00 AM onwards",
+  speaker:"Mr. AmitPandey GIC Practice Lead at IBM",
+  course:"Btech/MCA2024/2025"
 },
 
 {
   id:"30",
-  name:"Webinar on Emerging Trends in Accounting and Auditing",
-  date:"March 23 2023, 03:00 PM Onwards",
-  speaker:"L&T Edutech CA V Pattabhi Ram CA Aditya AM",
-  course:"For all Students of BBA and MBA"
+  name:"Python Learning Workshop",
+  date:"22nd March",
+  speaker:"Accenture",
+  course:"All students of Btech Final Year"
 },
 
 {
   id:"31",
-  name:"Orientation on Electrical wire harness using Catia V5",
-  date:"March 25 2023, 05:30 PM Onwards",
-  speaker:"Bernard Raja EdTech Platform Learning Technologist",
-  course:"B.Tech/M.Tech/MCA/ 2024/2025/2026"
+  name:"Webinar on E Mobility System Engineering Hardware and Software Integration",
+  date:"26th March 03:00 PM onwards",
+  speaker:"Mr. Vatsal Shah Program Director for Electric Vehicles at Skill-Lync",
+  course:"B.Tech/M.Tech/MCA(Batch 2025/2026)"
 },
 
 {
   id:"32",
-  name:"UDGAM Career Counseling session",
-  date:"March 31 2023 to April 3 2023",
-  speaker:"Senior Peers",
-  course:"B.Tech/BBA/ MBA 2025"
+  name:"Personality Development and Interview Technique Session",
+  date:"2nd April to 10th April",
+  speaker:"Mr. Vibhav Srivastava",
+  course:"All Pre-Final Year studentsof all branches | Batch2025"
 },
 
 {
   id:"33",
-  name:"Seminar on Courses: Architecture, Structural, Valuation and Earthquake Resistance",
-  date:"April 6 2023, 03:00 PM Onwards",
-  speaker:"Er. Satish Singh",
-  course:"B.Tech/M.Tech (CE) Batch 2023/2024"
+  name:"Career guidance webinar",
+  date:"Tentative",
+  speaker:"Skill dunia and Ecell IIT Hyderabad",
+  course:"Open to all departments andbranches"
 },
 
 {
   id:"34",
-  name:"Webinar on Job opportunities in the domain of ship management",
-  date:"April 9 2023, 03:00 PM Onwards",
-  speaker:"Fleet Management Training Institute",
-  course:"B.Tech/M.Tech (ME) Batch 2023/2024/2025/2026"
+  name:"Training Courses on Artificial Intelligence (AI) and ChatGPT",
+  date:"June",
+  speaker:"Niit Foundation",
+  course:"Open to all departments and branches"
 },
 
 {
-  id:"35",name:"Start-up and Career Opportunities in USA",
-  date:"18th April 2023, 03:00 PM Onwards",
-  speaker:"Sanjay Gupta CTO for Autonomiq Technologies, California USA",
-  course:"B.Tech/BBA/MBA 2023/2024"
+  id:"35",name:"Expert Talk on Professional Advice for TOEFL and GRE Preparation",
+  date:"9th June",
+  speaker:"Mr. Joseph Augustine",
+  course:"B.Tech./M.Tech./MCA/BBA/MBA/B.Pharma/M.Sc. (2025/2026/2027)"
 },
 
 {
   id:"36",
-  name:"Webinar on Rapid Prototyping at R&I Incubation",
-  date:"28th April 2023, 04:30 PM to 05:30 PM",
-  speaker:"Sivakumar SK",
-  course:"B.Tech/ M.Tech/MCA/ 2024/2025/2026"
+  name:"Webinar on Explore a career in AI and IOT Powered Supply chai and Operation Management",
+  date:"13th June",
+  speaker:"Mr. Asoke Das Sarma, Prof. Milann Kumar, Prof. Neena Pandey",
+  course:"B.Tech./M.Tech./MCA/MBA/BBA (2025/2026/2027)"
 },
 
 {
   id:"37",
-  name:"Expert Talk on How to confront the contemporary challenges of job markets in 21st century",
-  date:"20th June 2023, 11:30 AM onwards",
-  speaker:"Amit Pandey Associate Professor Amity University Noida",
-  course:"MBA 2024"
+  name:"Workshop on Data Analytics & AI",
+  date:"15th June",
+  speaker:"Dr. Mendus Jacob, Dr. Sunil Job K A",
+  course:"B.Tech./M.Tech./MCA/MBA/BBA (2025/2026/2027)"
+},
+{
+  id:"38",
+  name:"Tech Talk on Thriving in the age of Digital Disruption Through Business Agility",
+  date:"09th July",
+  speaker:"Dipashree Jha",
+  course:"B.Tech./M.Tech./MSc(2025)"
 }
 ];

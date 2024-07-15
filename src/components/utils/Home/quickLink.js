@@ -106,6 +106,13 @@ const QuickLinks = () => {
                     <div className="hid1">
                       <ul>
                         <li>
+                          <a 
+                            target="_blank"
+                            href="https://drive.google.com/file/d/19OPzZCYe0C9IcxZ2XG6H3A7uyrKhjdfS/view">
+                            Placement Brchure 2024-2025
+                          </a>
+                        </li>
+                        <li>
                           <a href="https://res.cloudinary.com/dirfs5ho3/image/upload/v1687067609/Placement_Brochure_2023-24_compressed_chflps.pdf">
                             Placement Brochure 2023-2024
                           </a>
@@ -287,8 +294,9 @@ const QuickLinks = () => {
                       whileTap={{ scale: 0.9 }}
                     >
                       <a
+                        target="_blank"
                         className="link"
-                        href="https://mmmutgkp-my.sharepoint.com/:b:/g/personal/tnpmmmut_info_mmmut_ac_in/Eaae-B92eZ5PhHl3oyYO-FIBT-4p4I_IgkhRIzESRyH8xA?e=aluDGB"
+                        href="https://drive.google.com/file/d/1EA3sDwvxJ2QyS3KrlhZUFLr5O9GNfItX/view"
                       >
                         Contact List
                       </a>
