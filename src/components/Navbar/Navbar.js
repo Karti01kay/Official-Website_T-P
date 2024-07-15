@@ -103,7 +103,7 @@ const Navbar = () => {
                 <li className="navwidth2">
                   <a
                     style={{ textDecoration: "none", color: "#000" }}
-                    href="https://res.cloudinary.com/dirfs5ho3/image/upload/v1687110551/Placement_Report_2022-23_h1yeoj.pdf"
+                    href="https://drive.google.com/file/d/1wPP_Qz4OkjYIaw5ygaInBMcMOjNn79xN/view?usp=sharing"
                     target="_blank"
                     rel="noreferrer"
                   >

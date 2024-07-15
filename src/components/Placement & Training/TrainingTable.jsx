@@ -10,7 +10,7 @@ function TrainingTable() {
     <>
       <div className="dataGrid" style={{ display: "flex" }}>
         <div className="tableTitle mx-auto text-center mt-3">
-          Training Activities 2022-23
+          Training Activities 2023-24
         </div>
         <div
           className="tableStyle"

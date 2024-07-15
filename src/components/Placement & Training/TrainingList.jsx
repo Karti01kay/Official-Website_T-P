@@ -8,6 +8,11 @@ function TrainingList() {
         <div className="border-bottom mb-2"></div>
         <ul className="items-training">
         <li className="item-training">
+            <a href="https://drive.google.com/file/d/1yL167CWXAY7afnYH627N5HbKcAe3KcTY/view?usp=sharing">
+              Training Activities 2023 - 2024
+            </a>
+          </li>
+        <li className="item-training">
             <a href="https://res.cloudinary.com/dirfs5ho3/image/upload/v1687168500/New_Microsoft_Word_Document_njilxo.pdf">
               Training Activities 2022 - 2023
             </a>
