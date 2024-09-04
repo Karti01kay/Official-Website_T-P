@@ -51,7 +51,7 @@ export const PlacementData = [
   {
     id: 8,
     Year: "2023 - 24",
-    Offers: "800",
+    Offers: "860",
     AveragePackage: "6",
     HighestPackage: "42",
   }
