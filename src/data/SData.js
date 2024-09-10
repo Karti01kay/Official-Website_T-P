@@ -421,33 +421,9 @@ const SData = [
     fb: "",
     in: "https://www.linkedin.com/in/sandesh-singh-1472ab271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
   },
-
-  {
-    id: 35,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583850/IMG_20240512_080752_-_TNP_Students_iyznhr.jpg",
-    name: "Archana Vishwakarma",
-    post: "T&P Third Year",
-    branch: "CHE",
-    year: "Third",
-    phone: "6388694030",
-    fb: "",
-    in: "https://www.linkedin.com/in/archana-vishwakarma-574992299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
-
-  {
-    id: 36,
-    image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583618/IMG_20240512_001650_-_kanak_mishra_qo83ua.jpg",
-    name: "Kanak Mishra",
-    post: "T&P Third Year",
-    branch: "CHE",
-    year: "Third",
-    phone: "9336435895",
-    fb: "",
-    in: "https://www.linkedin.com/in/kanak-mishra-05b270269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-  },
   
   {
-    id: 37,
+    id: 35,
     image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720708401/IMG_20240711_195939_vj68cf.jpg",
     name: "Aditi Upadhyay",
     post: "T&P Third Year",
@@ -459,7 +435,7 @@ const SData = [
   },
   
   {
-    id: 38,
+    id: 36,
     image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720582893/GridArt_20240513_223718462_-_Tanisha_Agrahari_y3gcjr.jpg",
     name: "Tanisha Agrahari",
     post: "T&P Third Year",
@@ -471,7 +447,7 @@ const SData = [
   },
   
   {
-    id: 39,
+    id: 37,
     image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720707723/WhatsApp_Image_2024-07-11_at_18.34.35_qiu5dp.jpg",
     name: "Akshara Srivastava",
     post: "T&P Third Year",
@@ -483,7 +459,7 @@ const SData = [
   },  
   
   {
-    id: 40,
+    id: 38,
     image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583929/passportphoto_-_Tanmay_Mishra_swfmyu.jpg",
     name: "Tanmay Mishra",
     post: "T&P Third Year",
@@ -495,7 +471,7 @@ const SData = [
   },  
   
   {
-    id: 41,
+    id: 39,
     image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583513/img.tejash_-_Tejash_Shukla_k3k12w.jpg",
     name: "Tejas Shukla",
     post: "T&P Third Year",
@@ -507,7 +483,7 @@ const SData = [
   },  
   
   {
-    id: 42,
+    id: 40,
     image:"https://res.cloudinary.com/da9ygbhjv/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720583856/IMG_20240513_220531_918_-_ANKIT_VISHWAKARMA_cxev04.jpg",
     name: "Ankit Vishwakarma",
     post: "T&P Third Year",
